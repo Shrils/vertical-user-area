@@ -1,0 +1,17 @@
+{
+  "name": "verticaluserarea",
+  "version": "1.0.0",
+  "description": "Moves the user area to the sidebar",
+  "repository": "https://github.com/DiscordStyles/HorizontalServerList.git",
+  "author": "Shrils <www.shrils.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "bd-scss dev",
+    "build": "bd-scss build"
+  },
+  "type": "module",
+  "dependencies": {
+    "bd-scss": "^2.0.9"
+  }
+}
